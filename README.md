@@ -13,9 +13,9 @@ This is a Movie Library Web Application built using the MERN stack (MongoDB, Exp
 ## Live Demo
 You can access the live application [here](https://moviemanas.vercel.app/).
 
-### login credentials 
+### Login Credentials 
 email:veneya5216@avastu.com
-passwd:123456
+password:123456
 
 ## Technologies Used
 - *Frontend:* React, CSS
